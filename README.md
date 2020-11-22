@@ -2,6 +2,8 @@
 
 I have decided to treat myself to a long holiday vacation in Honolulu, Hawaii! To help with my trip planning, I need to do some climate analysis on the area. The following outlines what I did.
 
+![](Images/surfs-up.png)
+
 ### Step 1 - Climate Analysis and Exploration
 
 Python and SQLAlchemy were used to do basic climate analysis and data exploration of your climatae database. ALl of the following analysis were completed using SQLAlchemy ORM queries, Panda and Matplotlib.
@@ -20,7 +22,7 @@ Python and SQLAlchemy were used to do basic climate analysis and data exploratio
   * Plotted the results using the DataFrame plot method
   
   
-  ![](Images/sqlprecipitation.png
+  ![](Images/sqlprecipitation.png) 
   
   
   ### Step 2 - Climate App
