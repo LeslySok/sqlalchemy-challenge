@@ -21,9 +21,25 @@ Python and SQLAlchemy were used to do basic climate analysis and data exploratio
   
   * Plotted the results using the DataFrame plot method
   
+  ![](Images/precipitation.png)
   
-  ![](Images/sqlprecipitation.png) 
+  ### Station Analysis
   
+  * Designed a query to calculate the total number of stations
+  
+  * Design a query to find the most active stations
+  
+   * Listed the stations and observation counts in descending order. 
+  
+   * The station with the highest number of observations
+   
+  * Designed a query to retrieve the last 12 months of temperature observation data (TOBS)
+  
+   * Filtered by the station with the highest number of observations
+   
+   * Plot the results as a histogram with bins=12
+   
+   ![](Images/station-histogram.png)
   
   ### Step 2 - Climate App
   
